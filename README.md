@@ -1,6 +1,6 @@
 # RoomSpy Hardware
 
-This folder contains the firmware code for **RoomSpy**, a room occupancy monitoring system using the **HC-SR501 Motion Sensor** and **ESP32** microcontroller. The system detects motion, determines room occupancy status, and communicates with a backend API over WiFi.
+This Repo contains the firmware code for **RoomSpy** in [./esp.ino](./esp.ino), a room occupancy monitoring system using the **HC-SR501 Motion Sensor** and **ESP32** microcontroller. The system detects motion, determines room occupancy status, and communicates with a backend API over WiFi.
 
 ---
 
